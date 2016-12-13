@@ -12,7 +12,15 @@
 <h3>Welcome ${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
+<<<<<<< HEAD
 Hello!! 你好嘛!!
+=======
+<<<<<<< HEAD
+<h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
+=======
+>>>>>>> branch 'master' of https://github.com/EEIT90Team02/RemoteRepository1213
+>>>>>>> branch 'master' of https://github.com/EEIT90Team02/RemoteRepository1213.git
 
 </body>
 </html>
