@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+/target/
 /.settings/
 /.classpath
 /.project
+/.springBeans
+/.gitignore
+=======
+
+>>>>>>> branch 'master' of https://github.com/EEIT90Team02/RemoteRepository1213
