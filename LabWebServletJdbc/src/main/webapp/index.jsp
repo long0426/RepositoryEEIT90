@@ -12,6 +12,6 @@
 <h3>Welcome ${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
-
+Hello!! 你好嘛!!
 </body>
 </html>
