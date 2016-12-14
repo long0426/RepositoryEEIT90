@@ -9,14 +9,20 @@
 </head>
 <body>
 
+<h2>2nd commit</h2>
+
+
 <h3>Welcome ${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
-<<<<<<< HEAD
-<h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
-<h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
-=======
->>>>>>> branch 'master' of https://github.com/EEIT90Team02/RemoteRepository1213
+Hello!! 你好嘛!!
+<p>
+請簽到<br>
+=========================================<br>
+
+<%-- <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3> --%>
+<%-- <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3> --%>
+<%-- <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3> --%>
 
 </body>
 </html>
