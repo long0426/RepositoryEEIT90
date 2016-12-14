@@ -16,9 +16,13 @@
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
 Hello!! 你好嘛!!
-<h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
-<h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
-<h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
+<p>
+請簽到<br>
+=========================================<br>
+
+<%-- <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3> --%>
+<%-- <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3> --%>
+<%-- <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3> --%>
 
 </body>
 </html>
