@@ -8,20 +8,7 @@
 <title>Home</title>
 </head>
 <body>
-
-<h2>2nd commit</h2>
-
-
-<h3>Welcome ${user.email}</h3>
-<h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
-<h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
-Hello!! 你好嘛!!
-<p>
-
-請簽到<br>
-=========================================<br>
-李松翰第一次簽到
-楊英龍
+楊英龍測試簽到
 
 <%-- <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3> --%>
 <%-- <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3> --%>
