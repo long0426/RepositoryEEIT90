@@ -8,21 +8,20 @@
 <title>Home</title>
 </head>
 <body>
+
 楊英龍測試簽到
 
-<%-- <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3> --%>
-<%-- <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3> --%>
-<%-- <h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3> --%>
-廖書賢第一次簽
 
-Ricky Chen
 
-李松翰第二次簽到
-李松翰第二次簽到
-李松翰第二次簽到
-李松翰第二次簽到
-李松翰第二次簽到
-李松翰第二次簽到
+
+<h3>Welcome ${user.email}</h3>
+<h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
+
+<h3>Welcome ${user.email}</h3>
+<h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
+
 
 </body>
 </html>
